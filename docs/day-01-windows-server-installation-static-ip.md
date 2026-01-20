@@ -20,10 +20,15 @@ by installing Windows Server 2019 and configuring a static IP address.
 - Installed Windows Server 2019
 - Completed initial system setup and administrator configuration
 
+![Windows Server 2019 Desktop](../screenshots/ws2019-desktop.png)
+
 ### 2️⃣ Static IP Configuration
 - Configured a static IPv4 address manually
 - Set subnet mask and default gateway
 - Configured preferred DNS server (temporary setting)
+
+![Static IP Configuration Window](../screenshots/static-ip-config.png)  
+![Command Prompt ipconfig Output](../screenshots/ipconfig-output.png)
 
 ---
 

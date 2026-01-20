@@ -7,7 +7,7 @@ by installing Windows Server 2019 and configuring a static IP address.
 ---
 
 ## 🖥️ Environment
-- VirtualBox
+- Hypervisor: VirtualBox
 - Operating System: Windows Server 2019
 - Network Mode: NAT
 

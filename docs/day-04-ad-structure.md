@@ -22,7 +22,7 @@ Created the following OUs to represent company departments:
 - **Finance**
 - **IT**
 
-![Active Directory OUs](../screenshots/day-04/ad-ous.png)
+![Active Directory OUs](../screenshots/ad-ous.png)
 
 ---
 
@@ -45,7 +45,7 @@ Created users per OU:
 - Assigned users to their respective security groups
 - Verified user creation and group membership
 
-![AD Users](../screenshots/day-04/security-groups-and-ad-users.png)
+![AD Users](../screenshots/security-groups-and-ad-users.png)
 
 ---
 

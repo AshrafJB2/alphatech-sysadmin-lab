@@ -17,11 +17,11 @@ to control access for domain users.
 
 Created the following folders on the file server:
 
-- `D:\Shared\HR`
-- `D:\Shared\Finance`
-- `D:\Shared\Public`
+- `C:\Shared\HR`
+- `C:\Shared\Finance`
+- `C:\Shared\Public`
 
-Shared the root folder `D:\Shared` with **Authenticated Users → Read**.
+Shared the root folder `C:\Shared` with **Authenticated Users → Read**.
 Controlled access using **NTFS permissions** on subfolders.
 
 ![Shared Folders Structure](../screenshots/shared-folders.png)
